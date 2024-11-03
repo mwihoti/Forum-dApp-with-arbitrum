@@ -24,3 +24,9 @@ Other users can participate in these polls by selecting one of the two options. 
 #4 - Likes
 
 Both posts and comments can receive likes (upvotes) or dislikes (downvotes), allowing the community to signal which content they find most valuable or relevant.
+
+<div>
+<img src="./public/img1.png" src="img 1"/>
+
+<img src="./public/img2.png" src="img 2 demo"/>
+</div>
